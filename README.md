@@ -1,5 +1,5 @@
 # pb-sample
-protocol buffers sample repository
+oreore protocol buffers sample repository
 
 ## コンテナの起動方法
 
